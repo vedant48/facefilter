@@ -1,0 +1,105 @@
+{
+  "brands": [
+    {
+      "name": "Mask"
+    },
+    {
+      "name": "Glasses"
+    },
+    {
+      "name": "Filters"
+    }
+  ],
+  "models": [
+    {
+      "brand": "Mask",
+      "id": "1",
+      "image": "preview.jpg",
+      "model": "0BV2228B__2023",
+      "title": "0BV2228B__2023",
+      "folderName": "0BV2228B__2023",
+      "price": 40500,
+      "url": "#"
+    },
+    {
+      "brand": "Mask",
+      "id": "100",
+      "image": "preview.jpg",
+      "model": "0PO0649__24_51",
+      "title": "0PO0649__24_51",
+      "folderName": "0PO0649__24_51",
+      "price": 65200,
+      "url": "#"
+    },
+    {
+      "brand": "Mask",
+      "id": "2",
+      "image": "preview.jpg",
+      "model": "0BV3044__5484",
+      "title": "0BV3044__5484",
+      "folderName": "0BV3044__5484",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Glasses",
+      "id": "3",
+      "image": "preview.jpg",
+      "model": "0ST3065__0002",
+      "title": "0ST3065__0002",
+      "folderName": "0ST3065__0002",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Glasses",
+      "id": "4",
+      "image": "preview.jpg",
+      "model": "0TF1139__6001",
+      "title": "0TF1139__6001",
+      "folderName": "0TF1139__6001",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Filters",
+      "id": "5",
+      "image": "preview.jpg",
+      "model": "0TF2208B__8134",
+      "title": "0TF2208B__8134",
+      "folderName": "0TF2208B__8134",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Filters",
+      "id": "6",
+      "image": "preview.jpg",
+      "model": "0TF2209__8328",
+      "title": "0TF2209__8328",
+      "folderName": "0TF2209__8328",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Filters",
+      "id": "7",
+      "image": "preview.jpg",
+      "model": "0TF2214B__8134",
+      "title": "0TF2214B__8134",
+      "folderName": "0TF2214B__8134",
+      "price": 10100,
+      "url": "#"
+    },
+    {
+      "brand": "Glasses",
+      "id": "8",
+      "image": "preview.jpg",
+      "model": "0TF2216__8333",
+      "title": "0TF2216__8333",
+      "folderName": "0TF2216__8333",
+      "price": 10100,
+      "url": "#"
+    }
+  ]
+}

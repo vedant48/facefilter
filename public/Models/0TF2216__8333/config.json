@@ -1,0 +1,20 @@
+{
+  "envPreset": "city",
+  "params": {
+    "rotationX": 0,
+    "offsetY": 0,
+    "offsetZ": 0,
+    "templesY": 0,
+    "scale": 0.6
+  },
+  "lensesSettings": {
+    "metalness": 0,
+    "roughness": 0,
+    "clearcoat": 1,
+    "clearcoatRoughness": 0.01,
+    "reflectivity": 1,
+    "transmission": 0.99,
+    "opacity": 1,
+    "color": "#fafafa"
+  }
+}
